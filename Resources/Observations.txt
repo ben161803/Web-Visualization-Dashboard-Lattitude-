@@ -1,0 +1,3 @@
+1. It's colder in the southern hemisphere, where it's winter. It warms as it nears the equator and continues to warm into the northern hemisphere before cooling back down north of about 35 degrees
+2. Relative humidity is consitently higher near the equator.
+3. Cloudiness and wind speed show very little correlation with latitude.
